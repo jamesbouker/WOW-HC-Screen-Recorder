@@ -13,7 +13,6 @@
 		F5A396E42A3052E500B77F9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5A396E32A3052E500B77F9B /* Assets.xcassets */; };
 		F5A396E72A3052E500B77F9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5A396E62A3052E500B77F9B /* Preview Assets.xcassets */; };
 		F5A396F02A305CE200B77F9B /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5A396EF2A305CE200B77F9B /* ContentViewModel.swift */; };
-		F5A396F22A306C8D00B77F9B /* TODO in Resources */ = {isa = PBXBuildFile; fileRef = F5A396F12A306C8D00B77F9B /* TODO */; };
 		F5A396F42A31A2EF00B77F9B /* URL+.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5A396F32A31A2EF00B77F9B /* URL+.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,7 +26,6 @@
 		F5A396E82A3052E500B77F9B /* Record_WOW_HC.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Record_WOW_HC.entitlements; sourceTree = "<group>"; };
 		F5A396EE2A30592100B77F9B /* Record-WOW-HC-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Record-WOW-HC-Info.plist"; sourceTree = SOURCE_ROOT; };
 		F5A396EF2A305CE200B77F9B /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
-		F5A396F12A306C8D00B77F9B /* TODO */ = {isa = PBXFileReference; lastKnownFileType = text; path = TODO; sourceTree = "<group>"; };
 		F5A396F32A31A2EF00B77F9B /* URL+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URL+.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				F5A396EE2A30592100B77F9B /* Record-WOW-HC-Info.plist */,
-				F5A396F12A306C8D00B77F9B /* TODO */,
 				F5A396DF2A3052E400B77F9B /* Record_WOW_HCApp.swift */,
 				F5A396E12A3052E400B77F9B /* ContentView.swift */,
 				F5A396EF2A305CE200B77F9B /* ContentViewModel.swift */,
@@ -141,7 +138,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F5A396F22A306C8D00B77F9B /* TODO in Resources */,
 				F5A396E72A3052E500B77F9B /* Preview Assets.xcassets in Resources */,
 				F5A396E42A3052E500B77F9B /* Assets.xcassets in Resources */,
 			);
