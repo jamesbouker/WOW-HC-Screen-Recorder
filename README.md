@@ -5,7 +5,7 @@
 ## Free Versions
 ### Option 1 - For non developers
 1. Signup for [TestFlight](https://apps.apple.com/us/app/testflight/id899247664)
-2. Signup to be a [beta tester]()
+2. Signup to be a [beta tester](https://testflight.apple.com/join/S1sxtxFE)
 
 ### Option 2 - Via Xcode
 1. Clone this repo & open in Xcode
